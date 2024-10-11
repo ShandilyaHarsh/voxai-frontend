@@ -17,11 +17,7 @@ const AboutTeam = () => {
             <div class="caption">
                 <h3>Harsh Shandilya</h3>
                 <p> Bits Pilani '23</p>
-                <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                </div>
+                <p> 8431263004</p>
             </div>
         </div>
         <div class="profile-card">
@@ -31,11 +27,7 @@ const AboutTeam = () => {
             <div class="caption">
                 <h3>Saarth Jhaveri</h3>
                 <p>Bits Pilani '23 </p>
-                <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                </div>
+                <p>9307827153</p>
             </div>
         </div>
     </div>
